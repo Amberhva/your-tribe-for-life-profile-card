@@ -1,0 +1,27 @@
+{
+  "id": "foto",
+  "type": "SharedSlice",
+  "name": "Foto",
+  "description": "Foto",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "amber_picture": {
+          "type": "Image",
+          "config": {
+            "label": "amber_picture",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
