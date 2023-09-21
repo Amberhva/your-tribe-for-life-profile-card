@@ -10,6 +10,8 @@
     <section class="background">
         <article class="about-me">
             <!-- Content -->
+
+            <!-- Kijkt naar de ingevulde data in het Prismic database en pakt de url van de foto genaamd 'amber_pic' -->
             <img class="profile-pic" src={data.amber_pic.url} alt="Amber's picture" width="200" height="200" />
             <h1>{data.title[0].text}</h1>
             <p>{data.description}</p>
@@ -18,16 +20,19 @@
             <ul class="social-media-row">
                 <li class="list">
                     <a href="https://www.linkedin.com/in/amber-van-der-reijden-465761251/" target="_blank">
+                        <!-- Kijkt naar de ingevulde data in het Prismic database en pakt de url van de foto genaamd 'linkedin.svg' -->
                         <img src={data.linkedin_svg.url} alt="LinkedIn" width="25" height="25" />
                     </a>
                 </li>
                 <li class="list">
                     <a href="https://github.com/Amberhva" target="_blank">
+                        <!-- Kijkt naar de ingevulde data in het Prismic database en pakt de url van de foto genaamd 'github.svg' -->
                         <img src={data.github_svg.url} alt="GitHub" width="25" height="25" />
                     </a>
                 </li>
                 <li class="list">
                     <a href="mailto:ambervdr@hotmail.com">
+                        <!-- Kijkt naar de ingevulde data in het Prismic database en pakt de url van de foto genaamd 'email.svg' -->
                         <img src={data.email_svg.url} alt="Email" width="25" height="25" />
                     </a>
                 </li>
