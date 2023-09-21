@@ -1,38 +1,28 @@
-# create-svelte
+# your-tribe-for-life-profile-card
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Door middel van Svelte en Prismic.io, heb ik een eigen visitekaartje gemaakt.
 
-## Creating a project
+![image](https://github.com/Amberhva/your-tribe-for-life-profile-card/assets/112861033/ed12482e-136d-4ed3-8ed4-2a3f46023858)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Gebruik
+Het doel van de opdrach is met Svelte en Prismic.io een visitekaartje te maken waar opdrachtgevers meer over me te weten kunnen komen, mijn werk kan bekijken en contact met me kan opnemen.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Kenmerken
+* Svelte
+* Prismic.io
+* HTML
+* CSS
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Installatie
 
-## Developing
+1. Download het project
+2. Open het project in VsCode
+3. Open de terminal en typ in: ```npm run dev```
+4. Geniet van het project
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Live link
+https://your-tribe-for-life-profile-card-swart.vercel.app/
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Gebruikte bronnen
+YouTube: [SvelteKit 1.0 Crash Course - Full Tutorial with Prismic](https://www.youtube.com/watch?v=mDQy0NsBrwg)
+Prismic.io & Svelte documentatie: https://prismic.io/docs/svelte
