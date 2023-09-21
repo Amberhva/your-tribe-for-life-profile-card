@@ -25,4 +25,5 @@ https://your-tribe-for-life-profile-card-swart.vercel.app/
 
 ## Gebruikte bronnen
 YouTube: [SvelteKit 1.0 Crash Course - Full Tutorial with Prismic](https://www.youtube.com/watch?v=mDQy0NsBrwg)
+<br>
 Prismic.io & Svelte documentatie: https://prismic.io/docs/svelte
